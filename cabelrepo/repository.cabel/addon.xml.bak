@@ -3,7 +3,7 @@
     <extension point="xbmc.addon.repository" name="Cabel REPOSITORY">
 		<info compressed="false">https://raw.githubusercontent.com/cabelw1985/cabel/master/cabelrepo/zip/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/cabelw1985/cabel/master/cabelrepo/zip/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/cabelw1985/cabel/cabelrepo/raw/master/zip/</datadir>
+		<datadir zip="true">https://github.com/cabelw1985/cabel/raw/master/cabelrepo/zip/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>[COLOR lime]cabel[/COLOR]</summary>
