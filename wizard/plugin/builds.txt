@@ -32,7 +32,7 @@ description="A short description of the build."
 
 name="virus verseucht3"
 version="1.0"
-url="https://archive.org/download/alex_20211207/alex.zip"
+url="https://www.dropbox.com/s/snrfz5t4vrjbde1/alex.zip?dl=1"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="18.6"
