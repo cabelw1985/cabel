@@ -1,6 +1,6 @@
-id="plugin.program.openwizard"
-version="1.0.0"
-zip="url.to.wizard"
+id="plugin.program.cabelwizard"
+version="1.0.1"
+zip="https://raw.github.com/cabelw1985/cabel/main/plugin/plugin.program.cabelwizard.zip"
 
 name="basic1"
 version="1.0"
