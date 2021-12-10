@@ -94,13 +94,13 @@ AUTOUPDATE = 'Yes'
 #        Auto Install Repo If Not Installed             #
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL = 'No'
+AUTOINSTALL = 'Yes'
 # Addon ID for the repository
-REPOID = 'plugin.program.cabelwizard'
+REPOID = 'repository.cabelrepo'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://'
+REPOADDONXML = https://raw.githubusercontent.com/cabelw1985/repocabel/master/repocabel/sonstiges/repository.cabelrepo/addon.xml
 # Url to folder zip is located in
-REPOZIPURL = 'https://'
+REPOZIPURL = 'https://www.dropbox.com/s/ykugy53twbvv855/repository.cabelrepo.zip?dl=1'
 #########################################################
 
 #########################################################
