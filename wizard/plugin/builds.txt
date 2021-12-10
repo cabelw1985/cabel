@@ -30,7 +30,7 @@ adult="no"
 info="http://your.info.url"
 description="A short description of the build."
 
-name="virus verseucht3"
+name="virus verseucht4"
 version="1.0"
 url="https://www.dropbox.com/s/snrfz5t4vrjbde1/alex.zip?dl=1"
 minor="http://"
