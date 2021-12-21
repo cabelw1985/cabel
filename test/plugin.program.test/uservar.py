@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR darkcyan]CabelKodi [/COLOR]All In One Wizard'
 BUILDERNAME = 'Cabel Kodi Wizard'
 EXCLUDES = [ADDON_ID, 'plugin.program.cabelwizard']
 # Text File with build info in it.
-BUILDFILE = 'https://raw.githubusercontent.com/cabelw1985/cabel/master/wizard/plugin/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/cabelw1985/cabel/master/test/wizard/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
